@@ -1,99 +1,70 @@
-import re
-from sqlite3 import DatabaseError
-from traceback import print_tb
-import requests
+from asyncio.windows_events import NULL
+from cProfile import label
+from functools import update_wrapper
+import airportsdata
 import csv
-import time
-import random
-from io import BytesIO
-from lxml import etree
-from pytz import timezone
-from datetime import datetime
+from numpy import delete
 import pandas as pd
+from datetime import datetime
+from pytz import timezone
+import datetime as dt 
+from dateutil import tz 
+import pytz
 import datetime
+import tkinter as tk
+import threading
 
-url = "https://timezonedb.p.rapidapi.com/"
-
-
-def pri():
-    print("==========")
-
-def replaceStr(inputstr):
-    trans_str = "".join(inputstr)
-    trans_str = trans_str.replace("[","").replace("]","").replace("\'","")
-    return trans_str
-
-# 開啟IATA AIRPORT CODE經緯度
 with open('\Data.csv') as csvfile:
     rows = csv.reader(csvfile)
 
-    with open('\GMT_DST.txt', 'a', encoding='utf-8') as GMT_DST:
-        # 印表頭資訊
-        print("IATA"+","+"latitude"+","+"longitude"+","+"country_iso"+","+"ZoneTime"+","+"GMT"+","+"DST"+","+"DST Start"+","+"DST End", file=GMT_DST)
-    GMT_DST.close()
-
     for row in rows:
-        with open('\GMT_DST.txt', 'a', encoding='utf-8') as GMT_DST:
-            # 填入API金鑰 key
-            querystring = {"key": "", "lat": row[1], "lng": row[2], "format": "xml"}
+        #輸入的搜尋值設定
+        airports = airportsdata.load('IATA')  # key is IATA code
+        with open('\Output.txt','a',encoding='utf-8') as Output:
+            #字典的labels
+            labels=['icao','iata','name','city','state','country','elevation','lat','lon','tz']
+            #如果讀出來為Keyerror,用Not found取代
+            Airports=airports.get(row[0],'No Found')
+            #標點符號
+            p=","
+            
+            if(Airports!='No Found'):
+                #設定DateRange
+                NowYear = (datetime.datetime.now().year)
+                DST_StartRangeTime = datetime.datetime(NowYear, 1, 1, 0, 0, 0)
+                DST_EndRangeTime = datetime.datetime(NowYear, 12, 31, 0, 0, 0)
+                #TimeZone get DST str and end
+                tzto=timezone(Airports[labels[9]])
+                #獲取未計算DST之UTC
+                utc=(pytz.timezone(Airports[labels[9]]).localize(datetime.datetime(NowYear,1,1)).strftime('%z'))
+                ##
+                All_StartAndEndTimeForDst=tzto._utc_transition_times
+                #篩選當年的 Dst str and end
+                #flag記換行
+                flag=1
+                #nodata記當年沒有執行DST時間
+                nodata=0
+                for lenDst in range(len(All_StartAndEndTimeForDst)):
+                    if(All_StartAndEndTimeForDst[lenDst]>DST_StartRangeTime and All_StartAndEndTimeForDst[lenDst]<DST_EndRangeTime):
+                        f=All_StartAndEndTimeForDst[lenDst]
+                        nodata=nodata+1
+                        if flag==1:
+                            strtime=f
+                        else:
+                            endtime=f
+                        flag=2
+                    if nodata==0:
+                        strtime="No Dst"
+                        endtime="No Dst"
+                #輸出
+                print(Airports[labels[1]]+p+Airports[labels[2]]+p+Airports[labels[5]]+p+Airports[labels[3]]+p+Airports[labels[4]]+p+str(Airports[labels[7]])+p+str(Airports[labels[8]])+p+Airports[labels[9]]+p+utc+p+str(strtime)+p+str(endtime),file=Output)
+            else :
+                print(row[0]+p+"No Found",file=Output)
+                print(row[0])
+                #1.iata,2.name,3.country,4.city,5.State,6.lat,7.lon,8.tz,9.GMT,10.DST Str,11.DST End
+        Output.close()
+csvfile.close()
 
-            headers = {
-                'x-rapidapi-host': "timezonedb.p.rapidapi.com",
-                # 填入rapidapi-key
-                'x-rapidapi-key': ""
-            }
 
-            # 抓時區
-            response = requests.request("GET", url, headers=headers, params=querystring)
-            # xml轉換
-            outxml = etree.parse(BytesIO(response.content))
-            # xml輸出
-            countryCode = [t.text for t in outxml.xpath("countryCode")]
-            dstzoneName = [t.text for t in outxml.xpath("zoneName")]
-            gmtTime = [t.text for t in outxml.xpath("gmtOffset")]
-            dstTime = [t.text for t in outxml.xpath("dst")]
-            # 轉成正常STR
-            StrDstZoneName = replaceStr(dstzoneName)
-            StrCountryCode = replaceStr(countryCode)
-            StrGmtTime = replaceStr(gmtTime)
-            StrDstTime = replaceStr(dstTime)
 
-            # 用時區抓取DST開始結束時間
-            tzto = timezone(StrDstZoneName)
 
-            # 所有當地DST歷年開始以及結束時間
-            All_StartAndEndTimeForDst = tzto._utc_transition_times
-
-            # 設定DateRange
-            NowYear = (datetime.datetime.now().year)
-            DST_StartRangeTime = datetime.datetime(NowYear, 1, 1, 0, 0, 0)
-            DST_EndRangeTime = datetime.datetime(NowYear, 12, 31, 0, 0, 0)
-
-            # 測試輸出======
-            # 原始response內容
-            pri()
-            print(response.text, end="")
-            pri()
-            # 顯示當前查詢DST區域名稱、經緯度
-            print(row[0]+","+row[1]+","+row[2]+","+StrCountryCode+","+StrDstZoneName+","+StrGmtTime+","+StrDstTime+",", file=GMT_DST, end="")
-            # flag記換行
-            flag = 1
-            # nodata記當年沒有執行DST時間
-            nodata = 0
-            for lenDst in range(len(All_StartAndEndTimeForDst)):
-                if All_StartAndEndTimeForDst[lenDst] > DST_StartRangeTime and All_StartAndEndTimeForDst[lenDst] < DST_EndRangeTime:
-                    f = All_StartAndEndTimeForDst[lenDst]
-                    nodata = nodata + 1
-                    print(f, file=GMT_DST, end='')
-                    if flag == 1:
-                        print(",", file=GMT_DST, end="")
-                    else:
-                        print("", file=GMT_DST)
-                    flag = 2
-
-            if nodata == 0:
-                print("No DST", file=GMT_DST)
-
-        GMT_DST.close()
-
-        time.sleep(random.randint(2, 5))

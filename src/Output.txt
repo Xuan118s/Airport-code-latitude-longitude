@@ -1,0 +1,590 @@
+AAL,Aalborg Airport,DK,Aalborg,North Denmark,57.0927589138,9.8492431641,Europe/Copenhagen,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+ABQ,Albuquerque International Sunport Airport,US,Albuquerque,New Mexico,35.0401992798,-106.6090011597,America/Denver,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+ABZ,Aberdeen Dyce Airport,GB,Aberdeen,Scotland,57.2019004822,-2.1977798939,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+ADL,Adelaide International Airport,AU,Adelaide,South Australia,-34.9449996948,138.5310058594,Australia/Adelaide,+1030,2022-04-02 16:30:00,2022-10-01 16:30:00
+AGS,Augusta Regional At Bush Field,US,Augusta,Georgia,33.3698997498,-81.9645004272,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+AKL,Auckland International Airport,NZ,Auckland,Auckland,-37.0080986023,174.7920074463,Pacific/Auckland,+1300,2022-04-02 14:00:00,2022-09-24 14:00:00
+AMM,Queen Alia International Airport,JO,Amman,Amman,31.7226009369,35.9931983948,Asia/Amman,+0200,2022-02-24 22:00:00,2022-10-27 22:00:00
+AMS,Amsterdam Airport Schiphol,NL,Amsterdam,North Holland,52.3086013794,4.7638897896,Europe/Amsterdam,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+AOR,Sultan Abdul Halim Airport,MY,Alor Satar,,6.1896700859,100.3980026245,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+ARN,Stockholm-Arlanda Airport,SE,Stockholm,Stockholm,59.6519012451,17.9186000824,Europe/Stockholm,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+ASU,Silvio Pettirossi International Airport,PY,Asuncion,Central,-25.2399997711,-57.5200004578,America/Asuncion,-0300,2022-03-27 03:00:00,2022-10-02 04:00:00
+ATH,Eleftherios Venizelos International Airport,GR,Athens,Attica,37.9364013672,23.9444999695,Europe/Athens,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+ATL,Hartsfield Jackson Atlanta International Airport,US,Atlanta,Georgia,33.6366996765,-84.4281005859,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+AUS,Austin Bergstrom International Airport,US,Austin,Texas,30.1944999695,-97.6698989868,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+AZO,Kalamazoo Battle Creek International Airport,US,Kalamazoo,Michigan,42.2349014282,-85.5521011353,America/Detroit,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+BCN,Barcelona International Airport,ES,Barcelona,Catalonia,41.2971000671,2.0784599781,Europe/Madrid,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BDJ,Syamsudin Noor Airport,ID,Banjarmasin-Borneo Island,South Kalimantan,-3.4423599243,114.7630004883,Asia/Makassar,+0800,No Dst,No Dst
+BDL,Bradley International Airport,US,Hartford,Connecticut,41.9388999939,-72.6831970215,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+BEG,Belgrade Nikola Tesla Airport,RS,Belgrad,,44.8184013367,20.3090991974,Europe/Belgrade,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BER,Berlin Brandenburg Airport,DE,Berlin,Brandenburg,52.362167,13.500667,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BGO,Bergen Airport Flesland,NO,Bergen,Hordaland,60.2933998108,5.2181401253,Europe/Oslo,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BHD,George Best Belfast City Airport,GB,Belfast,Northern Ireland,54.6180992126,-5.8724999428,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+BHX,Birmingham International Airport,GB,Birmingham,England,52.4538993835,-1.7480299473,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+BIO,Bilbao Airport,ES,Bilbao,Basque-Country,43.3011016846,-2.9106099606,Europe/Madrid,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BIX,Keesler Air Force Base,US,Biloxi,Mississippi,30.4104003906,-88.9244003296,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+BKK,Suvarnabhumi Airport,TH,Bangkok,Samut-Prakan,13.6810998917,100.7470016479,Asia/Bangkok,+0700,No Dst,No Dst
+BOM,Chhatrapati Shivaji International Airport,IN,Mumbai,Maharashtra,19.0886993408,72.8678970337,Asia/Kolkata,+0530,No Dst,No Dst
+BOS,General Edward Lawrence Logan International Airport,US,Boston,Massachusetts,42.36429977,-71.00520325,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+CKG,Chongqing Jiangbei International Airport,CN,Chongqing,Chongqing,29.7192001343,106.641998291,Asia/Shanghai,+0800,No Dst,No Dst
+CLL,Easterwood Field,US,College Station,Texas,30.58860016,-96.36380005,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+CTS,New Chitose Airport,JP,Chitose / Tomakomai,Hokkaido,42.7751998901,141.6920013428,Asia/Tokyo,+0900,No Dst,No Dst
+CTU,Chengdu Shuangliu International Airport,CN,Chengdu,Sichuan,30.5785007477,103.9469985962,Asia/Shanghai,+0800,No Dst,No Dst
+CVG,Cincinnati Northern Kentucky International Airport,US,Hebron,Kentucky,39.0488014221,-84.6678009033,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+DAC,Dhaka / Hazrat Shahjalal International Airport,BD,Dhaka,Dhaka,23.843347,90.397783,Asia/Dhaka,+0600,No Dst,No Dst
+DAL,Dallas Love Field,US,Dallas,Texas,32.8470993042,-96.8517990112,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+DAY,James M Cox Dayton International Airport,US,Dayton,Ohio,39.9024009705,-84.2193984985,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+DCA,Ronald Reagan Washington National Airport,US,Washington,Virginia,38.8521003723,-77.0376968384,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+DEL,Indira Gandhi International Airport,IN,New Delhi,NCT,28.5664997101,77.1031036377,Asia/Kolkata,+0530,No Dst,No Dst
+DEN,Denver International Airport,US,Denver,Colorado,39.8616981506,-104.672996521,America/Denver,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+DFW,Dallas Fort Worth International Airport,US,Dallas-Fort Worth,Texas,32.8968009949,-97.0380020142,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+DLC,Zhoushuizi Airport,CN,Dalian,Liaoning,38.9656982422,121.5390014648,Asia/Shanghai,+0800,No Dst,No Dst
+DMK,Don Mueang International Airport,TH,Bangkok,Bangkok,13.9125995636,100.6070022583,Asia/Bangkok,+0700,No Dst,No Dst
+DOH,Hamad International Airport,QA,Doha,Baladiyat-ad-Dawḩah,25.2605946,51.6137665,Asia/Qatar,+0300,No Dst,No Dst
+BKI,Kota Kinabalu International Airport,MY,Kota Kinabalu,Sabah,5.937210083,116.0510025024,Asia/Kuching,+0800,No Dst,No Dst
+BOI,Boise Air Terminal/Gowen field,US,Boise,Idaho,43.56439972,-116.2229996,America/Boise,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+BRI,Bari / Palese International Airport,IT,Bari,Apulia,41.1389007568,16.7605991364,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BRS,Bristol International Airport,GB,Bristol,England,51.3827018738,-2.7190899849,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+BRU,Brussels Airport,BE,Brussels,Flanders,50.9014015198,4.4844398499,Europe/Brussels,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BSB,Presidente Juscelino Kubistschek International Airport,BR,Brasilia,Federal-District,-15.8691673279,-47.9208335876,America/Sao_Paulo,-0300,No Dst,No Dst
+CNS,Cairns International Airport,AU,Cairns,Queensland,-16.885799408,145.755004883,Australia/Brisbane,+1000,No Dst,No Dst
+CNX,Chiang Mai International Airport,TH,Chiang Mai,Chiang-Mai,18.7667999268,98.962600708,Asia/Bangkok,+0700,No Dst,No Dst
+CPH,Copenhagen Kastrup Airport,DK,Copenhagen,Capital-Region,55.6179008484,12.6560001373,Europe/Copenhagen,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+CPT,Cape Town International Airport,ZA,Cape Town,Western Cape,-33.9648017883,18.6016998291,Africa/Johannesburg,+0200,No Dst,No Dst
+DRO,Durango La Plata County Airport,US,Durango,Colorado,37.1515007019,-107.753997803,America/Denver,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+DRS,Dresden Airport,DE,Dresden,Saxony,51.1328010559,13.76720047,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+DSM,Des Moines International Airport,US,Des Moines,Iowa,41.5340003967,-93.6631011963,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+DTW,Detroit Metropolitan Wayne County Airport,US,Detroit,Michigan,42.2123985291,-83.3534011841,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+DUB,Dublin Airport,IE,Dublin,Leinster,53.4212989807,-6.270070076,Europe/Dublin,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+GIG,Galeao - Antonio Carlos Jobim International Airport,BR,Rio De Janeiro,Rio-de-Janeiro,-22.8099994659,-43.2505569458,America/Sao_Paulo,-0300,No Dst,No Dst
+GLA,Glasgow International Airport,GB,Glasgow,Scotland,55.8718986511,-4.4330601692,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+GOT,Gothenburg-Landvetter Airport,SE,Gothenburg,Vaestra-Gotaland,57.6627998352,12.279800415,Europe/Stockholm,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+GRU,Guarulhos - Governador Andre Franco Montoro International Airport,BR,Sao Paulo,Sao-Paulo,-23.4355564117,-46.4730567932,America/Sao_Paulo,-0300,No Dst,No Dst
+BLL,Billund Airport,DK,Billund,South Denmark,55.7402992249,9.1517801285,Europe/Copenhagen,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BLQ,Bologna / Borgo Panigale Airport,IT,Bologna,Emilia Romagna,44.5354003906,11.2887001038,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BNE,Brisbane International Airport,AU,Brisbane,Queensland,-27.3841991425,153.1170043945,Australia/Brisbane,+1000,No Dst,No Dst
+BOD,Bordeaux-Merignac (BA 106) Airport,FR,Bordeaux/Merignac,Nouvelle-Aquitaine,44.8283004761,-0.7155560255,Europe/Paris,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BOG,El Dorado International Airport,CO,Bogota,Bogota-D-C-,4.70159,-74.1469,America/Bogota,-0500,No Dst,No Dst
+BRE,Bremen Airport,DE,Bremen,Bremen,53.0475006104,8.7866697311,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BSL,EuroAirport Basel-Mulhouse-Freiburg Airport,FR,Bale/Mulhouse,Grand Est,47.5895996094,7.5299100876,Europe/Paris,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BTH,Hang Nadim Airport,ID,Batam Island,,1.121029973,104.1190032959,Asia/Jakarta,+0700,No Dst,No Dst
+BTU,Bintulu Airport,MY,Bintulu,Sarawak,3.1238501072,113.019996643,Asia/Kuching,+0800,No Dst,No Dst
+BUD,Budapest Liszt Ferenc International Airport,HU,Budapest,Budapest,47.4369010925,19.2555999756,Europe/Budapest,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+CAN,Guangzhou Baiyun International Airport,CN,Guangzhou,Guangdong,23.3924007416,113.2990036011,Asia/Shanghai,+0800,No Dst,No Dst
+CBR,Canberra International Airport,AU,Canberra,ACT,-35.3069000244,149.1950073242,Australia/Sydney,+1100,2022-04-02 16:00:00,2022-10-01 16:00:00
+CDG,Charles de Gaulle International Airport,FR,Paris,Ile-de-France,49.0127983093,2.5499999523,Europe/Paris,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+CEB,Mactan Cebu International Airport,PH,Lapu-Lapu City,Central Visayas,10.3074998856,123.9789962769,Asia/Manila,+0800,No Dst,No Dst
+CFS,Coffs Harbour Airport,AU,Coffs Harbour,New South Wales,-30.3206005096,153.115997314,Australia/Sydney,+1100,2022-04-02 16:00:00,2022-10-01 16:00:00
+CGK,Soekarno-Hatta International Airport,ID,Jakarta,,-6.1255698204,106.65599823,Asia/Jakarta,+0700,No Dst,No Dst
+CGO,Xinzheng Airport,CN,Zhengzhou,Henan,34.5196990967,113.841003418,Asia/Shanghai,+0800,No Dst,No Dst
+CHC,Christchurch International Airport,NZ,Christchurch,Canterbury,-43.4893989563,172.5319976807,Pacific/Auckland,+1300,2022-04-02 14:00:00,2022-09-24 14:00:00
+CHO,Charlottesville Albemarle Airport,US,Charlottesville,Virginia,38.1385993958,-78.4529037476,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+CLT,Charlotte Douglas International Airport,US,Charlotte,North Carolina,35.2140007019,-80.9430999756,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+CSX,Changsha Huanghua Airport,CN,Changsha,Hunan,28.1891994476,113.2200012207,Asia/Shanghai,+0800,No Dst,No Dst
+DPS,Ngurah Rai (Bali) International Airport,ID,Denpasar-Bali Island,Bali,-8.748169899,115.1669998169,Asia/Makassar,+0800,No Dst,No Dst
+DUS,Dusseldorf International Airport,DE,Dusseldorf,North-Rhine-Westphalia,51.2895011902,6.7667798996,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+DVO,Francisco Bangoy International Airport,PH,Davao City,Davao,7.1255202293,125.6460037231,Asia/Manila,+0800,No Dst,No Dst
+DXB,Dubai International Airport,AE,Dubai,Dubai,25.2527999878,55.3643989563,Asia/Dubai,+0400,No Dst,No Dst
+EDI,Edinburgh Airport,GB,Edinburgh,Scotland,55.9500007629,-3.3724999428,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+ELP,El Paso International Airport,US,El Paso,Texas,31.80719948,-106.3779984,America/Denver,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+EWR,Newark Liberty International Airport,US,Newark,New Jersey,40.6925010681,-74.1687011719,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+FAY,Fayetteville Regional Grannis Field,US,Fayetteville,North Carolina,34.9911994934,-78.8803024292,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+FCO,Leonardo Da Vinci (Fiumicino) International Airport,IT,Rome,Latium,41.8045005798,12.2508001328,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+FLL,Fort Lauderdale Hollywood International Airport,US,Fort Lauderdale,Florida,26.072599411,-80.1527023315,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+FLR,Firenze / Peretola Airport,IT,Firenze,Tuscany,43.8100013733,11.2051000595,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+FOC,Fuzhou Changle International Airport,CN,Fuzhou,Fujian,25.9351005554,119.6630020142,Asia/Shanghai,+0800,No Dst,No Dst
+FRA,Frankfurt am Main International Airport,DE,Frankfurt-am-Main,Hesse,50.0264015198,8.543129921,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+FUK,Fukuoka Airport,JP,Fukuoka,Fukuoka,33.585899353,130.4510040283,Asia/Tokyo,+0900,No Dst,No Dst
+GDL,Don Miguel Hidalgo Y Costilla International Airport,MX,Guadalajara,Jalisco,20.5217990875,-103.3109970093,America/Mexico_City,-0600,2022-04-03 08:00:00,2022-10-30 07:00:00
+GDN,Gdańsk Lech Wałęsa Airport,PL,Gdańsk,Pomerania,54.3776016235,18.4661998749,Europe/Warsaw,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+GFK,Grand Forks International Airport,US,Grand Forks,North Dakota,47.9492988586,-97.1761016846,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+GSO,Piedmont Triad International Airport,US,Greensboro,North Carolina,36.0978012085,-79.9373016357,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+GUA,La Aurora Airport,GT,Guatemala City,Guatemala,14.5832996368,-90.5274963379,America/Guatemala,-0600,No Dst,No Dst
+GUM,Antonio B. Won Pat International Airport,GU,Hagatna,Barrigada,13.4834003448,144.796005249,Pacific/Guam,+1000,No Dst,No Dst
+GVA,Geneva Cointrin International Airport,CH,Geneva,Geneva,46.2380981445,6.1089501381,Europe/Zurich,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+HAJ,Hannover Airport,DE,Hannover,Lower-Saxony,52.461101532,9.6850795746,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+HAM,Hamburg Airport,DE,Hamburg,Hamburg,53.6304016113,9.9882297516,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+HAN,Noi Bai International Airport,VN,Hanoi,Ha-Nội,21.221200943,105.8069992065,Asia/Ho_Chi_Minh,+0700,No Dst,No Dst
+HDN,Yampa Valley Airport,US,Hayden,Colorado,40.48120117,-107.2180023,America/Denver,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+HEL,Helsinki Vantaa Airport,FI,Helsinki,Uusimaa,60.317199707,24.963300705,Europe/Helsinki,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+HER,Heraklion International Nikos Kazantzakis Airport,GR,Heraklion,Crete,35.3396987915,25.1802997589,Europe/Athens,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+HFE,Hefei Luogang International Airport,CN,Hefei,Anhui,31.7800006866,117.297996521,Asia/Shanghai,+0800,No Dst,No Dst
+HKG,Chek Lap Kok International Airport,HK,Hong Kong,,22.3089008331,113.915000916,Asia/Hong_Kong,+0800,No Dst,No Dst
+HKT,Phuket International Airport,TH,Phuket,Phuket,8.1132001877,98.3169021606,Asia/Bangkok,+0700,No Dst,No Dst
+HND,Tokyo International Airport,JP,Tokyo,Tokyo,35.5522994995,139.7799987793,Asia/Tokyo,+0900,No Dst,No Dst
+HNL,Honolulu International Airport,US,Honolulu,Hawaii,21.3187007904,-157.9219970703,Pacific/Honolulu,-1000,No Dst,No Dst
+IAD,Washington Dulles International Airport,US,Washington,Virginia,38.94449997,-77.45580292,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+IAH,George Bush Intercontinental Houston Airport,US,Houston,Texas,29.9843997955,-95.3414001465,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+KBP,Boryspil International Airport,UA,Kiev,Kyiv,50.3450012207,30.8946990967,Europe/Kiev,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+KCH,Kuching International Airport,MY,Kuching,Sarawak,1.4846999645,110.3470001221,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+KHH,Kaohsiung International Airport,TW,Kaohsiung City,Takao,22.5771007538,120.3499984741,Asia/Taipei,+0800,No Dst,No Dst
+LIS,Lisbon Portela Airport,PT,Lisbon,Lisbon,38.7812995911,-9.1359195709,Europe/Lisbon,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+GRZ,Graz Airport,AT,Graz,Styria,46.9911003113,15.4395999908,Europe/Vienna,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+ICN,Incheon International Airport,KR,Seoul,Incheon,37.4691009521,126.4509963989,Asia/Seoul,+0900,No Dst,No Dst
+ICT,Wichita Mid Continent Airport,US,Wichita,Kansas,37.6498985291,-97.4330978394,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+IND,Indianapolis International Airport,US,Indianapolis,Indiana,39.717300415,-86.2944030762,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+ITM,Osaka International Airport,JP,Osaka,Hyogo,34.7854995728,135.43800354,Asia/Tokyo,+0900,No Dst,No Dst
+JAN,Jackson Evers International Airport,US,Jackson,Mississippi,32.3111991882,-90.0758972168,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+JAX,Jacksonville International Airport,US,Jacksonville,Florida,30.4941005707,-81.6878967285,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+JFK,John F Kennedy International Airport,US,New York,New York,40.63980103,-73.77890015,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+JHB,Senai International Airport,MY,Senai,Johor,1.6413099766,103.6699981689,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+JNB,Olifants River Bridge Landing Strip Airport,ZA,Olifants River Bridge,Limpopo,-24.2670001984,29.783000946,Africa/Johannesburg,+0200,No Dst,No Dst
+KIX,Kansai International Airport,JP,Osaka,Osaka,34.4272994995,135.2440032959,Asia/Tokyo,+0900,No Dst,No Dst
+KMG,Kunming Wujiaba International Airport,CN,Kunming,Yunnan,24.9923992157,102.7440032959,Asia/Shanghai,+0800,No Dst,No Dst
+KNO,Polonia International Airport,ID,Medan-Sumatra Island,,3.5580599308,98.6716995239,Asia/Jakarta,+0700,No Dst,No Dst
+KRK,John Paul II International Airport Kraków-Balice Airport,PL,Kraków,Lesser-Poland-Voivodeship,50.0777015686,19.7847995758,Europe/Warsaw,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+KSC,Kosice Airport,SK,Kosice,Kosicky,48.6631011963,21.2411003113,Europe/Bratislava,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+KTM,Tribhuvan International Airport,NP,Kathmandu,Central Region,27.6965999603,85.3591003418,Asia/Kathmandu,+0545,No Dst,No Dst
+KUL,Kuala Lumpur International Airport,MY,Kuala Lumpur,,2.745579958,101.7099990845,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+IQQ,Diego Aracena Airport,CL,Iquique,Tarapaca,-20.535200119,-70.1812973022,America/Santiago,-0300,2022-04-03 03:00:00,2022-09-04 04:00:00
+LAX,Los Angeles International Airport,US,Los Angeles,California,33.94250107,-118.4079971,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+LBA,Leeds Bradford Airport,GB,Leeds,England,53.8658981323,-1.6605700254,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+LCY,London City Airport,GB,London,England,51.5052986145,0.0552779995,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+LGK,Langkawi International Airport,MY,Langkawi,Kedah,6.3297300339,99.7286987305,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+LGP,Legazpi City International Airport,PH,Legazpi City,Bicol,13.1575,123.735,Asia/Manila,+0800,No Dst,No Dst
+LGW,London Gatwick Airport,GB,London,England,51.1481018066,-0.1902779937,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+LHR,London Heathrow Airport,GB,London,England,51.4706001282,-0.4619410038,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+LIM,Jorge Chavez International Airport,PE,Lima,Callao,-12.021900177,-77.1143035889,America/Lima,-0500,No Dst,No Dst
+LIN,Linate Airport,IT,Milan,Lombardy,45.445098877,9.2767400742,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+IST,Istanbul Airport,TR,Istanbul,Istanbul,41.275333,28.752,Europe/Istanbul,+0300,No Dst,No Dst
+KOJ,Kagoshima Airport,JP,Kagoshima,Kagoshima,31.8034000397,130.7189941406,Asia/Tokyo,+0900,No Dst,No Dst
+LAS,McCarran International Airport,US,Las Vegas,Nevada,36.08010101,-115.1520004,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+LOS,Murtala Muhammed International Airport,NG,Lagos,Lagos,6.5773701668,3.321160078,Africa/Lagos,+0100,No Dst,No Dst
+LUX,Luxembourg-Findel International Airport,LU,Luxembourg,Luxembourg,49.6265983582,6.211520195,Europe/Luxembourg,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+LYS,Lyon Saint-Exupery Airport,FR,Lyon,Auvergne-Rhone-Alpes,45.726398468,5.0908298492,Europe/Paris,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+MAD,Madrid Barajas International Airport,ES,Madrid,Madrid,40.4936,-3.56676,Europe/Madrid,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+MAJ,Marshall Islands International Airport,MH,Majuro Atoll,Majuro-Atoll,7.0647602081,171.2720031738,Pacific/Majuro,+1200,No Dst,No Dst
+MAN,Manchester Airport,GB,Manchester,England,53.3536987305,-2.2749500275,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+MCO,Orlando International Airport,US,Orlando,Florida,28.4293994904,-81.3089981079,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+MEL,Melbourne International Airport,AU,Melbourne,Victoria,-37.6733016968,144.8430023193,Australia/Melbourne,+1100,2022-04-02 16:00:00,2022-10-01 16:00:00
+MEX,Licenciado Benito Juarez International Airport,MX,Mexico City,Mexico City,19.4363002777,-99.0720977783,America/Mexico_City,-0600,2022-04-03 08:00:00,2022-10-30 07:00:00
+MFM,Macau International Airport,MO,Taipa,,22.1495990753,113.5920028687,Asia/Macau,+0800,No Dst,No Dst
+MGA,Augusto C. Sandino (Managua) International Airport,NI,Managua,Managua,12.141500473,-86.1681976318,America/Managua,-0600,No Dst,No Dst
+MIA,Miami International Airport,US,Miami,Florida,25.7931995392,-80.2906036377,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+MIG,Mianyang Airport,CN,Mianyang,Sichuan,31.4281005859,104.7409973145,Asia/Shanghai,+0800,No Dst,No Dst
+MNL,Ninoy Aquino International Airport,PH,Manila,,14.508600235,121.019996643,Asia/Manila,+0800,No Dst,No Dst
+MPM,Maputo Airport,MZ,Maputo,Maputo,-25.9207992554,32.5726013184,Africa/Maputo,+0200,No Dst,No Dst
+MRS,Marseille Provence Airport,FR,Marseille,Provence-Alpes-Cote-d'Azur,43.439271922,5.2214241028,Europe/Paris,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,US,Minneapolis,Minnesota,44.8819999695,-93.2218017578,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+MSU,Moshoeshoe I International Airport,LS,Maseru,Maseru,-29.4622993469,27.5524997711,Africa/Maseru,+0200,No Dst,No Dst
+MSY,Louis Armstrong New Orleans International Airport,US,New Orleans,Louisiana,29.9934005737,-90.2580032349,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+MUC,Munich International Airport,DE,Munich,Bavaria,48.3538017273,11.7861003876,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+MXP,Malpensa International Airport,IT,Milan,Lombardy,45.6305999756,8.7281103134,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+MYJ,Matsuyama Airport,JP,Matsuyama,Ehime,33.8272018433,132.6999969482,Asia/Tokyo,+0900,No Dst,No Dst
+MYY,Miri Airport,MY,Miri,Sarawak,4.3220100403,113.9869995117,Asia/Kuching,+0800,No Dst,No Dst
+NBO,Jomo Kenyatta International Airport,KE,Nairobi,Nairobi-Area,-1.319239974,36.9277992249,Africa/Nairobi,+0300,No Dst,No Dst
+NRT,Narita International Airport,JP,Tokyo,Chiba,35.7647018433,140.3860015869,Asia/Tokyo,+0900,No Dst,No Dst
+NUE,Nuremberg Airport,DE,Nuremberg,Bavaria,49.4986991882,11.0669002533,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+NVT,Ministro Victor Konder International Airport,BR,Navegantes,Santa Catarina,-26.8799991608,-48.6514015198,America/Sao_Paulo,-0300,No Dst,No Dst
+ODS,Odessa International Airport,UA,Odessa,Odessa,46.4267997742,30.6765003204,Europe/Kiev,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+OGG,Kahului Airport,US,Kahului,Hawaii,20.8985996246,-156.4299926758,Pacific/Honolulu,-1000,No Dst,No Dst
+OKA,Naha Airport,JP,Naha,Okinawa,26.1958007812,127.646003723,Asia/Tokyo,+0900,No Dst,No Dst
+ONT,Ontario International Airport,US,Ontario,California,34.0559997559,-117.6009979248,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+OPO,Francisco de Sa Carneiro Airport,PT,Porto,Porto,41.2481002808,-8.6813898087,Europe/Lisbon,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+ORD,Chicago O'Hare International Airport,US,Chicago,Illinois,41.97859955,-87.90480042,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+ORK,Cork Airport,IE,Cork,Munster,51.8413009644,-8.491109848,Europe/Dublin,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+OSL,Oslo Gardermoen Airport,NO,Oslo,Akershus,60.193901062,11.100399971,Europe/Oslo,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+OTP,Henri Coanda International Airport,RO,Bucharest,Ilfov,44.5722007751,26.1021995544,Europe/Bucharest,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+NCE,Nice-Cote d'Azur Airport,FR,Nice,Provence-Alpes-Cote-d'Azur,43.6584014893,7.2158699036,Europe/Paris,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+NCL,Newcastle Airport,GB,Newcastle,England,55.0374984741,-1.6916699409,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+NGO,Chubu Centrair International Airport,JP,Tokoname,Aichi,34.8583984375,136.8049926758,Asia/Tokyo,+0900,No Dst,No Dst
+NKG,Nanjing Lukou Airport,CN,Nanjing,Jiangsu,31.7420005798,118.8619995117,Asia/Shanghai,+0800,No Dst,No Dst
+NNG,Nanning Wuxu Airport,CN,Nanning,Guangxi,22.6082992554,108.1719970703,Asia/Shanghai,+0800,No Dst,No Dst
+PEN,Penang International Airport,MY,Penang,,5.2971401215,100.2770004272,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+PER,Perth International Airport,AU,Perth,Western Australia,-31.9402999878,115.9670028687,Australia/Perth,+0800,No Dst,No Dst
+PAP,Toussaint Louverture International Airport,HT,Port-au-Prince,Ouest,18.5799999237,-72.2925033569,America/Port-au-Prince,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+PDX,Portland International Airport,US,Portland,Oregon,45.58869934,-122.5979996,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+PEK,Beijing Capital International Airport,CN,Beijing,Beijing,40.0801010132,116.5849990845,Asia/Shanghai,+0800,No Dst,No Dst
+PHF,Newport News Williamsburg International Airport,US,Newport News,Virginia,37.13190079,-76.49299622,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+PHL,Philadelphia International Airport,US,Philadelphia,Pennsylvania,39.8718986511,-75.2410964966,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+PHL,Philadelphia International Airport,US,Philadelphia,Pennsylvania,39.8718986511,-75.2410964966,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+PIT,Pittsburgh International Airport,US,Pittsburgh,Pennsylvania,40.49150085,-80.23290253,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+PKX,Beijing Daxing International Airport,CN,Beijing,Beijing,39.5,116.4,Asia/Shanghai,+0800,No Dst,No Dst
+PNH,Phnom Penh International Airport,KH,Phnom Penh,,11.5466003418,104.84400177,Asia/Phnom_Penh,+0700,No Dst,No Dst
+POZ,Poznań-Ławica Airport,PL,Poznań,Greater-Poland,52.4210014343,16.8262996674,Europe/Warsaw,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+PPG,Pago Pago International Airport,AS,Pago Pago,Eastern District,-14.3310003281,-170.710006714,Pacific/Pago_Pago,-1100,No Dst,No Dst
+PRG,Ruzyne International Airport,CZ,Prague,Praha,50.1007995605,14.2600002289,Europe/Prague,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+PTY,Tocumen International Airport,PA,Tocumen,Panama,9.0713596344,-79.3834991455,America/Panama,-0500,No Dst,No Dst
+PVG,Shanghai Pudong International Airport,CN,Shanghai,Shanghai,31.1434001923,121.8050003052,Asia/Shanghai,+0800,No Dst,No Dst
+QKL,No Found
+QYG,No Found
+RDU,Raleigh Durham International Airport,US,Raleigh/Durham,North Carolina,35.8776016235,-78.7874984741,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+RGN,Yangon International Airport,MM,Yangon,Yangon,16.9073009491,96.1332015991,Asia/Yangon,+0630,No Dst,No Dst
+RIC,Richmond International Airport,US,Richmond,Virginia,37.5051994324,-77.3197021484,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+RIX,Riga International Airport,LV,Riga,Marupe,56.9235992432,23.9710998535,Europe/Riga,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+SLC,Salt Lake City International Airport,US,Salt Lake City,Utah,40.7883987427,-111.9779968262,America/Denver,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+SMF,Sacramento International Airport,US,Sacramento,California,38.695400238,-121.591003418,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+SNA,John Wayne Airport-Orange County Airport,US,Santa Ana,California,33.67570114,-117.8679962,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+SOF,Sofia Airport,BG,Sofia,Sofia-Capital,42.6966934204,23.4114360809,Europe/Sofia,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+SRG,Achmad Yani Airport,ID,Semarang-Java Island,Central Java,-6.9727301598,110.375,Asia/Jakarta,+0700,No Dst,No Dst
+STL,Lambert St Louis International Airport,US,St Louis,Missouri,38.7486991882,-90.3700027466,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+TLS,Toulouse-Blagnac Airport,FR,Toulouse/Blagnac,Occitanie,43.6291007996,1.3638199568,Europe/Paris,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+TLV,Ben Gurion International Airport,IL,Tel Aviv,Central District,32.0113983154,34.8866996765,Asia/Jerusalem,+0200,2022-03-25 00:00:00,2022-10-29 23:00:00
+TMW,Tamworth Airport,AU,Tamworth,New South Wales,-31.0839004517,150.847000122,Australia/Sydney,+1100,2022-04-02 16:00:00,2022-10-01 16:00:00
+TPA,Tampa International Airport,US,Tampa,Florida,27.9755001068,-82.533203125,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+RNO,Reno Tahoe International Airport,US,Reno,Nevada,39.4990997314,-119.7679977417,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+ROR,Babelthuap Airport,PW,Babelthuap Island,Airai,7.367650032,134.5440063477,Pacific/Palau,+0900,No Dst,No Dst
+ROV,Platov International Airport,RU,Rostov-on-Don,Rostov,47.50083333,39.93361111,Europe/Moscow,+0300,No Dst,No Dst
+RSW,Southwest Florida International Airport,US,Fort Myers,Florida,26.5361995697,-81.7552032471,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+RZE,Rzeszow-Jasionka Airport,PL,Rzeszow,Subcarpathian-Voivodeship,50.1100006104,22.0189990997,Europe/Warsaw,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+SAF,Santa Fe Municipal Airport,US,Santa Fe,New Mexico,35.617099762,-106.088996887,America/Denver,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+SJC,Norman Y. Mineta San Jose International Airport,US,San Jose,California,37.3625984192,-121.9290008545,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+SZB,Sultan Abdul Aziz Shah International Airport,MY,Subang,,3.1305799484,101.5490036011,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+SZG,Salzburg Airport,AT,Salzburg,Salzburg,47.7933006287,13.0043001175,Europe/Vienna,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+SZX,Shenzhen Bao'an International Airport,CN,Shenzhen,Guangdong,22.6392993927,113.8109970093,Asia/Shanghai,+0800,No Dst,No Dst
+TAO,Liuting Airport,CN,Qingdao,Shandong,36.2661018372,120.374000549,Asia/Shanghai,+0800,No Dst,No Dst
+TFS,Tenerife South Airport,ES,Tenerife Island,Canary-Islands,28.044500351,-16.5725002289,Atlantic/Canary,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+TFU,No Found
+TGG,Sultan Mahmud Airport,MY,Kuala Terengganu,Terengganu,5.3826398849,103.1029968262,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+TLL,Tallinn Airport,EE,Tallinn,Harjumaa,59.4132995605,24.8327999115,Europe/Tallinn,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+SAL,El Salvador International Airport,SV,Santa Clara,La Paz,13.4408998489,-89.0557022095,America/El_Salvador,-0600,No Dst,No Dst
+SAN,San Diego International Airport,US,San Diego,California,32.7336006165,-117.1900024414,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+SAP,Ramon Villeda Morales International Airport,HN,La Mesa,Cortes,15.4525995255,-87.9235992432,America/Tegucigalpa,-0600,No Dst,No Dst
+SAT,San Antonio International Airport,US,San Antonio,Texas,29.533700943,-98.4698028564,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+SCL,Comodoro Arturo Merino Benitez International Airport,CL,Santiago,Santiago-Metropolitan,-33.3930015564,-70.7857971191,America/Santiago,-0300,2022-04-03 03:00:00,2022-09-04 04:00:00
+SEA,Seattle Tacoma International Airport,US,Seattle,Washington,47.4490013123,-122.3089981079,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+SFO,San Francisco International Airport,US,San Francisco,California,37.6189994812,-122.375,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+SGN,Tan Son Nhat International Airport,VN,Ho Chi Minh City,Ho-Chi-Minh-City,10.8187999725,106.652000427,Asia/Ho_Chi_Minh,+0700,No Dst,No Dst
+SHA,Shanghai Hongqiao International Airport,CN,Shanghai,Shanghai,31.1979007721,121.3359985352,Asia/Shanghai,+0800,No Dst,No Dst
+SHO,Sokcho Airport,KR,,Gangwon-do,38.1426010132,128.5989990234,Asia/Seoul,+0900,No Dst,No Dst
+SIN,Singapore Changi International Airport,SG,Singapore,North East,1.3501900434,103.9940032959,Asia/Singapore,+0800,No Dst,No Dst
+SJO,Juan Santamaria International Airport,CR,San Jose,Alajuela,9.9938602448,-84.2088012695,America/Costa_Rica,-0600,No Dst,No Dst
+SKB,Robert L. Bradshaw International Airport,KN,Basseterre,Saint-George-Basseterre,17.3111991882,-62.7187004089,America/St_Kitts,-0400,No Dst,No Dst
+SUB,Juanda International Airport,ID,Surabaya,East Java,-7.3798298836,112.7870025635,Asia/Jakarta,+0700,No Dst,No Dst
+SVO,Sheremetyevo International Airport,RU,Moscow,Moscow-Oblast,55.9725990295,37.4146003723,Europe/Moscow,+0300,No Dst,No Dst
+SYD,Sydney Kingsford Smith International Airport,AU,Sydney,New South Wales,-33.9460983276,151.1770019531,Australia/Sydney,+1100,2022-04-02 16:00:00,2022-10-01 16:00:00
+SYR,Syracuse Hancock International Airport,US,Syracuse,New York,43.1111984253,-76.106300354,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+TST,Trang Airport,TH,,Trang,7.5087399483,99.6166000366,Asia/Bangkok,+0700,No Dst,No Dst
+TUS,Tucson International Airport,US,Tucson,Arizona,32.1161003113,-110.9410018921,America/Phoenix,-0700,No Dst,No Dst
+UBP,Ubon Ratchathani Airport,TH,Ubon Ratchathani,Changwat-Ubon-Ratchathani,15.2512998581,104.870002747,Asia/Bangkok,+0700,No Dst,No Dst
+UPG,Hasanuddin International Airport,ID,Ujung Pandang-Celebes Island,South Sulawesi,-5.0616297722,119.5540008545,Asia/Makassar,+0800,No Dst,No Dst
+VCE,Venezia / Tessera -  Marco Polo Airport,IT,Venezia,Veneto,45.5052986145,12.3519001007,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+STR,Stuttgart Airport,DE,Stuttgart,Baden-Wuerttemberg,48.6898994446,9.2219600677,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+TPE,Taiwan Taoyuan International Airport,TW,Taipei,Taiwan,25.0776996613,121.233001709,Asia/Taipei,+0800,No Dst,No Dst
+TRD,Trondheim Airport Vaernes,NO,Trondheim,Nord-Trondelag,63.4578018188,10.9239997864,Europe/Oslo,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+TSA,Taipei Songshan Airport,TW,Taipei City,Taiwan,25.0694007874,121.5520019531,Asia/Taipei,+0800,No Dst,No Dst
+TSN,Tianjin Binhai International Airport,CN,Tianjin,Tianjin,39.1244010925,117.346000671,Asia/Shanghai,+0800,No Dst,No Dst
+VIE,Vienna International Airport,AT,Vienna,Lower-Austria,48.1102981567,16.5697002411,Europe/Vienna,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+VLC,Valencia Airport,ES,Valencia,Valencia,39.4892997742,-0.4816249907,Europe/Madrid,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+VNO,Vilnius International Airport,LT,Vilnius,Vilnius,54.6341018677,25.2858009338,Europe/Vilnius,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+VRN,Verona / Villafranca Airport,IT,Verona,Veneto,45.3956985474,10.8885002136,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+VTE,Wattay International Airport,LA,Vientiane,Vientiane-Prefecture,17.9883003235,102.56300354,Asia/Vientiane,+0700,No Dst,No Dst
+VVO,Vladivostok International Airport,RU,Vladivostok,Primorskiy,43.3989982605,132.1479949951,Asia/Vladivostok,+1000,No Dst,No Dst
+WAW,Warsaw Chopin Airport,PL,Warsaw,Mazovia,52.1656990051,20.9671001434,Europe/Warsaw,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+WRO,Copernicus Wrocław Airport,PL,Wrocław,Lower-Silesia,51.1026992798,16.885799408,Europe/Warsaw,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+WUH,Wuhan Tianhe International Airport,CN,Wuhan,Hubei,30.7838001251,114.2080001831,Asia/Shanghai,+0800,No Dst,No Dst
+WUX,Sunan Shuofang International Airport,CN,Wuxi,Jiangsu,31.4944000244,120.429000854,Asia/Shanghai,+0800,No Dst,No Dst
+XMN,Xiamen Gaoqi International Airport,CN,Xiamen,Fujian,24.5440006256,118.1279983521,Asia/Shanghai,+0800,No Dst,No Dst
+YEG,Edmonton International Airport,CA,Edmonton,Alberta,53.3097000122,-113.580001831,America/Edmonton,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+YIA,Yogyakarta International Airport,ID,Yogyakarta-Java Island,Yogyakarta,-7.904167,110.0575,Asia/Jakarta,+0700,No Dst,No Dst
+YLW,Kelowna Airport,CA,Kelowna,British Columbia,49.9561004639,-119.3779983521,America/Vancouver,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+YMM,Fort McMurray Airport,CA,Fort McMurray,Alberta,56.653301239,-111.222000122,America/Edmonton,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+YOW,Ottawa Macdonald-Cartier International Airport,CA,Ottawa,Ontario,45.3224983215,-75.6691970825,America/Toronto,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+YQU,Grande Prairie Airport,CA,Grande Prairie,Alberta,55.1796989441,-118.885002136,America/Edmonton,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+YSJ,Saint John Airport,CA,Saint John,New Brunswick,45.3161010742,-65.890296936,America/Halifax,-0400,2022-03-13 06:00:00,2022-11-06 05:00:00
+YUL,Montreal / Pierre Elliott Trudeau International Airport,CA,Montreal,Quebec,45.4706001282,-73.7407989502,America/Toronto,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+YUM,Yuma MCAS/Yuma International Airport,US,Yuma,Arizona,32.65660095,-114.6060028,America/Phoenix,-0700,No Dst,No Dst
+YVR,Vancouver International Airport,CA,Vancouver,British Columbia,49.193901062,-123.1839981079,America/Vancouver,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+YXS,Prince George Airport,CA,Prince George,British Columbia,53.8894004822,-122.6790008545,America/Vancouver,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+YYC,Calgary International Airport,CA,Calgary,Alberta,51.113899231,-114.0199966431,America/Edmonton,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+YYJ,Victoria International Airport,CA,Victoria,British Columbia,48.646900177,-123.4260025024,America/Vancouver,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+YYZ,Lester B. Pearson International Airport,CA,Toronto,Ontario,43.6772003174,-79.6305999756,America/Toronto,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+ZAG,Zagreb Airport,HR,Zagreb,Zagrebacka,45.7429008484,16.0687999725,Europe/Zagreb,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+ZRH,Zurich Airport,CH,Zurich,Zurich,47.4646987915,8.5491695404,Europe/Zurich,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+ZUH,Zhuhai Airport,CN,Zhuhai,Guangdong,22.0063991547,113.3759994507,Asia/Shanghai,+0800,No Dst,No Dst
+ZVR,No Found
+AAL,Aalborg Airport,DK,Aalborg,North Denmark,57.0927589138,9.8492431641,Europe/Copenhagen,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+ABQ,Albuquerque International Sunport Airport,US,Albuquerque,New Mexico,35.0401992798,-106.6090011597,America/Denver,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+ABZ,Aberdeen Dyce Airport,GB,Aberdeen,Scotland,57.2019004822,-2.1977798939,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+ADL,Adelaide International Airport,AU,Adelaide,South Australia,-34.9449996948,138.5310058594,Australia/Adelaide,+1030,2022-04-02 16:30:00,2022-10-01 16:30:00
+AGS,Augusta Regional At Bush Field,US,Augusta,Georgia,33.3698997498,-81.9645004272,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+AKL,Auckland International Airport,NZ,Auckland,Auckland,-37.0080986023,174.7920074463,Pacific/Auckland,+1300,2022-04-02 14:00:00,2022-09-24 14:00:00
+AMM,Queen Alia International Airport,JO,Amman,Amman,31.7226009369,35.9931983948,Asia/Amman,+0200,2022-02-24 22:00:00,2022-10-27 22:00:00
+AMS,Amsterdam Airport Schiphol,NL,Amsterdam,North Holland,52.3086013794,4.7638897896,Europe/Amsterdam,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+AOR,Sultan Abdul Halim Airport,MY,Alor Satar,,6.1896700859,100.3980026245,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+ARN,Stockholm-Arlanda Airport,SE,Stockholm,Stockholm,59.6519012451,17.9186000824,Europe/Stockholm,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+ASU,Silvio Pettirossi International Airport,PY,Asuncion,Central,-25.2399997711,-57.5200004578,America/Asuncion,-0300,2022-03-27 03:00:00,2022-10-02 04:00:00
+ATH,Eleftherios Venizelos International Airport,GR,Athens,Attica,37.9364013672,23.9444999695,Europe/Athens,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+ATL,Hartsfield Jackson Atlanta International Airport,US,Atlanta,Georgia,33.6366996765,-84.4281005859,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+AUS,Austin Bergstrom International Airport,US,Austin,Texas,30.1944999695,-97.6698989868,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+AZO,Kalamazoo Battle Creek International Airport,US,Kalamazoo,Michigan,42.2349014282,-85.5521011353,America/Detroit,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+BCN,Barcelona International Airport,ES,Barcelona,Catalonia,41.2971000671,2.0784599781,Europe/Madrid,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BDJ,Syamsudin Noor Airport,ID,Banjarmasin-Borneo Island,South Kalimantan,-3.4423599243,114.7630004883,Asia/Makassar,+0800,No Dst,No Dst
+BDL,Bradley International Airport,US,Hartford,Connecticut,41.9388999939,-72.6831970215,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+BEG,Belgrade Nikola Tesla Airport,RS,Belgrad,,44.8184013367,20.3090991974,Europe/Belgrade,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BER,Berlin Brandenburg Airport,DE,Berlin,Brandenburg,52.362167,13.500667,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BGO,Bergen Airport Flesland,NO,Bergen,Hordaland,60.2933998108,5.2181401253,Europe/Oslo,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BHD,George Best Belfast City Airport,GB,Belfast,Northern Ireland,54.6180992126,-5.8724999428,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+BHX,Birmingham International Airport,GB,Birmingham,England,52.4538993835,-1.7480299473,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+BIO,Bilbao Airport,ES,Bilbao,Basque-Country,43.3011016846,-2.9106099606,Europe/Madrid,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BIX,Keesler Air Force Base,US,Biloxi,Mississippi,30.4104003906,-88.9244003296,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+BKK,Suvarnabhumi Airport,TH,Bangkok,Samut-Prakan,13.6810998917,100.7470016479,Asia/Bangkok,+0700,No Dst,No Dst
+BOM,Chhatrapati Shivaji International Airport,IN,Mumbai,Maharashtra,19.0886993408,72.8678970337,Asia/Kolkata,+0530,No Dst,No Dst
+BOS,General Edward Lawrence Logan International Airport,US,Boston,Massachusetts,42.36429977,-71.00520325,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+CKG,Chongqing Jiangbei International Airport,CN,Chongqing,Chongqing,29.7192001343,106.641998291,Asia/Shanghai,+0800,No Dst,No Dst
+CLL,Easterwood Field,US,College Station,Texas,30.58860016,-96.36380005,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+CTS,New Chitose Airport,JP,Chitose / Tomakomai,Hokkaido,42.7751998901,141.6920013428,Asia/Tokyo,+0900,No Dst,No Dst
+CTU,Chengdu Shuangliu International Airport,CN,Chengdu,Sichuan,30.5785007477,103.9469985962,Asia/Shanghai,+0800,No Dst,No Dst
+CVG,Cincinnati Northern Kentucky International Airport,US,Hebron,Kentucky,39.0488014221,-84.6678009033,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+DAC,Dhaka / Hazrat Shahjalal International Airport,BD,Dhaka,Dhaka,23.843347,90.397783,Asia/Dhaka,+0600,No Dst,No Dst
+DAL,Dallas Love Field,US,Dallas,Texas,32.8470993042,-96.8517990112,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+DAY,James M Cox Dayton International Airport,US,Dayton,Ohio,39.9024009705,-84.2193984985,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+DCA,Ronald Reagan Washington National Airport,US,Washington,Virginia,38.8521003723,-77.0376968384,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+DEL,Indira Gandhi International Airport,IN,New Delhi,NCT,28.5664997101,77.1031036377,Asia/Kolkata,+0530,No Dst,No Dst
+DEN,Denver International Airport,US,Denver,Colorado,39.8616981506,-104.672996521,America/Denver,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+DFW,Dallas Fort Worth International Airport,US,Dallas-Fort Worth,Texas,32.8968009949,-97.0380020142,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+DLC,Zhoushuizi Airport,CN,Dalian,Liaoning,38.9656982422,121.5390014648,Asia/Shanghai,+0800,No Dst,No Dst
+DMK,Don Mueang International Airport,TH,Bangkok,Bangkok,13.9125995636,100.6070022583,Asia/Bangkok,+0700,No Dst,No Dst
+DOH,Hamad International Airport,QA,Doha,Baladiyat-ad-Dawḩah,25.2605946,51.6137665,Asia/Qatar,+0300,No Dst,No Dst
+BKI,Kota Kinabalu International Airport,MY,Kota Kinabalu,Sabah,5.937210083,116.0510025024,Asia/Kuching,+0800,No Dst,No Dst
+BOI,Boise Air Terminal/Gowen field,US,Boise,Idaho,43.56439972,-116.2229996,America/Boise,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+BRI,Bari / Palese International Airport,IT,Bari,Apulia,41.1389007568,16.7605991364,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BRS,Bristol International Airport,GB,Bristol,England,51.3827018738,-2.7190899849,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+BRU,Brussels Airport,BE,Brussels,Flanders,50.9014015198,4.4844398499,Europe/Brussels,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BSB,Presidente Juscelino Kubistschek International Airport,BR,Brasilia,Federal-District,-15.8691673279,-47.9208335876,America/Sao_Paulo,-0300,No Dst,No Dst
+CNS,Cairns International Airport,AU,Cairns,Queensland,-16.885799408,145.755004883,Australia/Brisbane,+1000,No Dst,No Dst
+CNX,Chiang Mai International Airport,TH,Chiang Mai,Chiang-Mai,18.7667999268,98.962600708,Asia/Bangkok,+0700,No Dst,No Dst
+CPH,Copenhagen Kastrup Airport,DK,Copenhagen,Capital-Region,55.6179008484,12.6560001373,Europe/Copenhagen,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+CPT,Cape Town International Airport,ZA,Cape Town,Western Cape,-33.9648017883,18.6016998291,Africa/Johannesburg,+0200,No Dst,No Dst
+DRO,Durango La Plata County Airport,US,Durango,Colorado,37.1515007019,-107.753997803,America/Denver,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+DRS,Dresden Airport,DE,Dresden,Saxony,51.1328010559,13.76720047,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+DSM,Des Moines International Airport,US,Des Moines,Iowa,41.5340003967,-93.6631011963,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+DTW,Detroit Metropolitan Wayne County Airport,US,Detroit,Michigan,42.2123985291,-83.3534011841,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+DUB,Dublin Airport,IE,Dublin,Leinster,53.4212989807,-6.270070076,Europe/Dublin,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+GIG,Galeao - Antonio Carlos Jobim International Airport,BR,Rio De Janeiro,Rio-de-Janeiro,-22.8099994659,-43.2505569458,America/Sao_Paulo,-0300,No Dst,No Dst
+GLA,Glasgow International Airport,GB,Glasgow,Scotland,55.8718986511,-4.4330601692,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+GOT,Gothenburg-Landvetter Airport,SE,Gothenburg,Vaestra-Gotaland,57.6627998352,12.279800415,Europe/Stockholm,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+GRU,Guarulhos - Governador Andre Franco Montoro International Airport,BR,Sao Paulo,Sao-Paulo,-23.4355564117,-46.4730567932,America/Sao_Paulo,-0300,No Dst,No Dst
+BLL,Billund Airport,DK,Billund,South Denmark,55.7402992249,9.1517801285,Europe/Copenhagen,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BLQ,Bologna / Borgo Panigale Airport,IT,Bologna,Emilia Romagna,44.5354003906,11.2887001038,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BNE,Brisbane International Airport,AU,Brisbane,Queensland,-27.3841991425,153.1170043945,Australia/Brisbane,+1000,No Dst,No Dst
+BOD,Bordeaux-Merignac (BA 106) Airport,FR,Bordeaux/Merignac,Nouvelle-Aquitaine,44.8283004761,-0.7155560255,Europe/Paris,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BOG,El Dorado International Airport,CO,Bogota,Bogota-D-C-,4.70159,-74.1469,America/Bogota,-0500,No Dst,No Dst
+BRE,Bremen Airport,DE,Bremen,Bremen,53.0475006104,8.7866697311,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BSL,EuroAirport Basel-Mulhouse-Freiburg Airport,FR,Bale/Mulhouse,Grand Est,47.5895996094,7.5299100876,Europe/Paris,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+BTH,Hang Nadim Airport,ID,Batam Island,,1.121029973,104.1190032959,Asia/Jakarta,+0700,No Dst,No Dst
+BTU,Bintulu Airport,MY,Bintulu,Sarawak,3.1238501072,113.019996643,Asia/Kuching,+0800,No Dst,No Dst
+BUD,Budapest Liszt Ferenc International Airport,HU,Budapest,Budapest,47.4369010925,19.2555999756,Europe/Budapest,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+CAN,Guangzhou Baiyun International Airport,CN,Guangzhou,Guangdong,23.3924007416,113.2990036011,Asia/Shanghai,+0800,No Dst,No Dst
+CBR,Canberra International Airport,AU,Canberra,ACT,-35.3069000244,149.1950073242,Australia/Sydney,+1100,2022-04-02 16:00:00,2022-10-01 16:00:00
+CDG,Charles de Gaulle International Airport,FR,Paris,Ile-de-France,49.0127983093,2.5499999523,Europe/Paris,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+CEB,Mactan Cebu International Airport,PH,Lapu-Lapu City,Central Visayas,10.3074998856,123.9789962769,Asia/Manila,+0800,No Dst,No Dst
+CFS,Coffs Harbour Airport,AU,Coffs Harbour,New South Wales,-30.3206005096,153.115997314,Australia/Sydney,+1100,2022-04-02 16:00:00,2022-10-01 16:00:00
+CGK,Soekarno-Hatta International Airport,ID,Jakarta,,-6.1255698204,106.65599823,Asia/Jakarta,+0700,No Dst,No Dst
+CGO,Xinzheng Airport,CN,Zhengzhou,Henan,34.5196990967,113.841003418,Asia/Shanghai,+0800,No Dst,No Dst
+CHC,Christchurch International Airport,NZ,Christchurch,Canterbury,-43.4893989563,172.5319976807,Pacific/Auckland,+1300,2022-04-02 14:00:00,2022-09-24 14:00:00
+CHO,Charlottesville Albemarle Airport,US,Charlottesville,Virginia,38.1385993958,-78.4529037476,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+CLT,Charlotte Douglas International Airport,US,Charlotte,North Carolina,35.2140007019,-80.9430999756,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+CSX,Changsha Huanghua Airport,CN,Changsha,Hunan,28.1891994476,113.2200012207,Asia/Shanghai,+0800,No Dst,No Dst
+DPS,Ngurah Rai (Bali) International Airport,ID,Denpasar-Bali Island,Bali,-8.748169899,115.1669998169,Asia/Makassar,+0800,No Dst,No Dst
+DUS,Dusseldorf International Airport,DE,Dusseldorf,North-Rhine-Westphalia,51.2895011902,6.7667798996,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+DVO,Francisco Bangoy International Airport,PH,Davao City,Davao,7.1255202293,125.6460037231,Asia/Manila,+0800,No Dst,No Dst
+DXB,Dubai International Airport,AE,Dubai,Dubai,25.2527999878,55.3643989563,Asia/Dubai,+0400,No Dst,No Dst
+EDI,Edinburgh Airport,GB,Edinburgh,Scotland,55.9500007629,-3.3724999428,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+ELP,El Paso International Airport,US,El Paso,Texas,31.80719948,-106.3779984,America/Denver,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+EWR,Newark Liberty International Airport,US,Newark,New Jersey,40.6925010681,-74.1687011719,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+FAY,Fayetteville Regional Grannis Field,US,Fayetteville,North Carolina,34.9911994934,-78.8803024292,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+FCO,Leonardo Da Vinci (Fiumicino) International Airport,IT,Rome,Latium,41.8045005798,12.2508001328,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+FLL,Fort Lauderdale Hollywood International Airport,US,Fort Lauderdale,Florida,26.072599411,-80.1527023315,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+FLR,Firenze / Peretola Airport,IT,Firenze,Tuscany,43.8100013733,11.2051000595,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+FOC,Fuzhou Changle International Airport,CN,Fuzhou,Fujian,25.9351005554,119.6630020142,Asia/Shanghai,+0800,No Dst,No Dst
+FRA,Frankfurt am Main International Airport,DE,Frankfurt-am-Main,Hesse,50.0264015198,8.543129921,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+FUK,Fukuoka Airport,JP,Fukuoka,Fukuoka,33.585899353,130.4510040283,Asia/Tokyo,+0900,No Dst,No Dst
+GDL,Don Miguel Hidalgo Y Costilla International Airport,MX,Guadalajara,Jalisco,20.5217990875,-103.3109970093,America/Mexico_City,-0600,2022-04-03 08:00:00,2022-10-30 07:00:00
+GDN,Gdańsk Lech Wałęsa Airport,PL,Gdańsk,Pomerania,54.3776016235,18.4661998749,Europe/Warsaw,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+GFK,Grand Forks International Airport,US,Grand Forks,North Dakota,47.9492988586,-97.1761016846,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+GSO,Piedmont Triad International Airport,US,Greensboro,North Carolina,36.0978012085,-79.9373016357,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+GUA,La Aurora Airport,GT,Guatemala City,Guatemala,14.5832996368,-90.5274963379,America/Guatemala,-0600,No Dst,No Dst
+GUM,Antonio B. Won Pat International Airport,GU,Hagatna,Barrigada,13.4834003448,144.796005249,Pacific/Guam,+1000,No Dst,No Dst
+GVA,Geneva Cointrin International Airport,CH,Geneva,Geneva,46.2380981445,6.1089501381,Europe/Zurich,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+HAJ,Hannover Airport,DE,Hannover,Lower-Saxony,52.461101532,9.6850795746,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+HAM,Hamburg Airport,DE,Hamburg,Hamburg,53.6304016113,9.9882297516,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+HAN,Noi Bai International Airport,VN,Hanoi,Ha-Nội,21.221200943,105.8069992065,Asia/Ho_Chi_Minh,+0700,No Dst,No Dst
+HDN,Yampa Valley Airport,US,Hayden,Colorado,40.48120117,-107.2180023,America/Denver,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+HEL,Helsinki Vantaa Airport,FI,Helsinki,Uusimaa,60.317199707,24.963300705,Europe/Helsinki,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+HER,Heraklion International Nikos Kazantzakis Airport,GR,Heraklion,Crete,35.3396987915,25.1802997589,Europe/Athens,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+HFE,Hefei Luogang International Airport,CN,Hefei,Anhui,31.7800006866,117.297996521,Asia/Shanghai,+0800,No Dst,No Dst
+HKG,Chek Lap Kok International Airport,HK,Hong Kong,,22.3089008331,113.915000916,Asia/Hong_Kong,+0800,No Dst,No Dst
+HKT,Phuket International Airport,TH,Phuket,Phuket,8.1132001877,98.3169021606,Asia/Bangkok,+0700,No Dst,No Dst
+HND,Tokyo International Airport,JP,Tokyo,Tokyo,35.5522994995,139.7799987793,Asia/Tokyo,+0900,No Dst,No Dst
+HNL,Honolulu International Airport,US,Honolulu,Hawaii,21.3187007904,-157.9219970703,Pacific/Honolulu,-1000,No Dst,No Dst
+IAD,Washington Dulles International Airport,US,Washington,Virginia,38.94449997,-77.45580292,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+IAH,George Bush Intercontinental Houston Airport,US,Houston,Texas,29.9843997955,-95.3414001465,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+KBP,Boryspil International Airport,UA,Kiev,Kyiv,50.3450012207,30.8946990967,Europe/Kiev,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+KCH,Kuching International Airport,MY,Kuching,Sarawak,1.4846999645,110.3470001221,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+KHH,Kaohsiung International Airport,TW,Kaohsiung City,Takao,22.5771007538,120.3499984741,Asia/Taipei,+0800,No Dst,No Dst
+LIS,Lisbon Portela Airport,PT,Lisbon,Lisbon,38.7812995911,-9.1359195709,Europe/Lisbon,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+GRZ,Graz Airport,AT,Graz,Styria,46.9911003113,15.4395999908,Europe/Vienna,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+ICN,Incheon International Airport,KR,Seoul,Incheon,37.4691009521,126.4509963989,Asia/Seoul,+0900,No Dst,No Dst
+ICT,Wichita Mid Continent Airport,US,Wichita,Kansas,37.6498985291,-97.4330978394,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+IND,Indianapolis International Airport,US,Indianapolis,Indiana,39.717300415,-86.2944030762,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+ITM,Osaka International Airport,JP,Osaka,Hyogo,34.7854995728,135.43800354,Asia/Tokyo,+0900,No Dst,No Dst
+JAN,Jackson Evers International Airport,US,Jackson,Mississippi,32.3111991882,-90.0758972168,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+JAX,Jacksonville International Airport,US,Jacksonville,Florida,30.4941005707,-81.6878967285,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+JFK,John F Kennedy International Airport,US,New York,New York,40.63980103,-73.77890015,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+JHB,Senai International Airport,MY,Senai,Johor,1.6413099766,103.6699981689,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+JNB,Olifants River Bridge Landing Strip Airport,ZA,Olifants River Bridge,Limpopo,-24.2670001984,29.783000946,Africa/Johannesburg,+0200,No Dst,No Dst
+KIX,Kansai International Airport,JP,Osaka,Osaka,34.4272994995,135.2440032959,Asia/Tokyo,+0900,No Dst,No Dst
+KMG,Kunming Wujiaba International Airport,CN,Kunming,Yunnan,24.9923992157,102.7440032959,Asia/Shanghai,+0800,No Dst,No Dst
+KNO,Polonia International Airport,ID,Medan-Sumatra Island,,3.5580599308,98.6716995239,Asia/Jakarta,+0700,No Dst,No Dst
+KRK,John Paul II International Airport Kraków-Balice Airport,PL,Kraków,Lesser-Poland-Voivodeship,50.0777015686,19.7847995758,Europe/Warsaw,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+KSC,Kosice Airport,SK,Kosice,Kosicky,48.6631011963,21.2411003113,Europe/Bratislava,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+KTM,Tribhuvan International Airport,NP,Kathmandu,Central Region,27.6965999603,85.3591003418,Asia/Kathmandu,+0545,No Dst,No Dst
+KUL,Kuala Lumpur International Airport,MY,Kuala Lumpur,,2.745579958,101.7099990845,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+IQQ,Diego Aracena Airport,CL,Iquique,Tarapaca,-20.535200119,-70.1812973022,America/Santiago,-0300,2022-04-03 03:00:00,2022-09-04 04:00:00
+LAX,Los Angeles International Airport,US,Los Angeles,California,33.94250107,-118.4079971,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+LBA,Leeds Bradford Airport,GB,Leeds,England,53.8658981323,-1.6605700254,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+LCY,London City Airport,GB,London,England,51.5052986145,0.0552779995,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+LGK,Langkawi International Airport,MY,Langkawi,Kedah,6.3297300339,99.7286987305,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+LGP,Legazpi City International Airport,PH,Legazpi City,Bicol,13.1575,123.735,Asia/Manila,+0800,No Dst,No Dst
+LGW,London Gatwick Airport,GB,London,England,51.1481018066,-0.1902779937,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+LHR,London Heathrow Airport,GB,London,England,51.4706001282,-0.4619410038,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+LIM,Jorge Chavez International Airport,PE,Lima,Callao,-12.021900177,-77.1143035889,America/Lima,-0500,No Dst,No Dst
+LIN,Linate Airport,IT,Milan,Lombardy,45.445098877,9.2767400742,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+IST,Istanbul Airport,TR,Istanbul,Istanbul,41.275333,28.752,Europe/Istanbul,+0300,No Dst,No Dst
+KOJ,Kagoshima Airport,JP,Kagoshima,Kagoshima,31.8034000397,130.7189941406,Asia/Tokyo,+0900,No Dst,No Dst
+LAS,McCarran International Airport,US,Las Vegas,Nevada,36.08010101,-115.1520004,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+LOS,Murtala Muhammed International Airport,NG,Lagos,Lagos,6.5773701668,3.321160078,Africa/Lagos,+0100,No Dst,No Dst
+LUX,Luxembourg-Findel International Airport,LU,Luxembourg,Luxembourg,49.6265983582,6.211520195,Europe/Luxembourg,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+LYS,Lyon Saint-Exupery Airport,FR,Lyon,Auvergne-Rhone-Alpes,45.726398468,5.0908298492,Europe/Paris,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+MAD,Madrid Barajas International Airport,ES,Madrid,Madrid,40.4936,-3.56676,Europe/Madrid,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+MAJ,Marshall Islands International Airport,MH,Majuro Atoll,Majuro-Atoll,7.0647602081,171.2720031738,Pacific/Majuro,+1200,No Dst,No Dst
+MAN,Manchester Airport,GB,Manchester,England,53.3536987305,-2.2749500275,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+MCO,Orlando International Airport,US,Orlando,Florida,28.4293994904,-81.3089981079,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+MEL,Melbourne International Airport,AU,Melbourne,Victoria,-37.6733016968,144.8430023193,Australia/Melbourne,+1100,2022-04-02 16:00:00,2022-10-01 16:00:00
+MEX,Licenciado Benito Juarez International Airport,MX,Mexico City,Mexico City,19.4363002777,-99.0720977783,America/Mexico_City,-0600,2022-04-03 08:00:00,2022-10-30 07:00:00
+MFM,Macau International Airport,MO,Taipa,,22.1495990753,113.5920028687,Asia/Macau,+0800,No Dst,No Dst
+MGA,Augusto C. Sandino (Managua) International Airport,NI,Managua,Managua,12.141500473,-86.1681976318,America/Managua,-0600,No Dst,No Dst
+MIA,Miami International Airport,US,Miami,Florida,25.7931995392,-80.2906036377,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+MIG,Mianyang Airport,CN,Mianyang,Sichuan,31.4281005859,104.7409973145,Asia/Shanghai,+0800,No Dst,No Dst
+MNL,Ninoy Aquino International Airport,PH,Manila,,14.508600235,121.019996643,Asia/Manila,+0800,No Dst,No Dst
+MPM,Maputo Airport,MZ,Maputo,Maputo,-25.9207992554,32.5726013184,Africa/Maputo,+0200,No Dst,No Dst
+MRS,Marseille Provence Airport,FR,Marseille,Provence-Alpes-Cote-d'Azur,43.439271922,5.2214241028,Europe/Paris,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,US,Minneapolis,Minnesota,44.8819999695,-93.2218017578,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+MSU,Moshoeshoe I International Airport,LS,Maseru,Maseru,-29.4622993469,27.5524997711,Africa/Maseru,+0200,No Dst,No Dst
+MSY,Louis Armstrong New Orleans International Airport,US,New Orleans,Louisiana,29.9934005737,-90.2580032349,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+MUC,Munich International Airport,DE,Munich,Bavaria,48.3538017273,11.7861003876,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+MXP,Malpensa International Airport,IT,Milan,Lombardy,45.6305999756,8.7281103134,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+MYJ,Matsuyama Airport,JP,Matsuyama,Ehime,33.8272018433,132.6999969482,Asia/Tokyo,+0900,No Dst,No Dst
+MYY,Miri Airport,MY,Miri,Sarawak,4.3220100403,113.9869995117,Asia/Kuching,+0800,No Dst,No Dst
+NBO,Jomo Kenyatta International Airport,KE,Nairobi,Nairobi-Area,-1.319239974,36.9277992249,Africa/Nairobi,+0300,No Dst,No Dst
+NRT,Narita International Airport,JP,Tokyo,Chiba,35.7647018433,140.3860015869,Asia/Tokyo,+0900,No Dst,No Dst
+NUE,Nuremberg Airport,DE,Nuremberg,Bavaria,49.4986991882,11.0669002533,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+NVT,Ministro Victor Konder International Airport,BR,Navegantes,Santa Catarina,-26.8799991608,-48.6514015198,America/Sao_Paulo,-0300,No Dst,No Dst
+ODS,Odessa International Airport,UA,Odessa,Odessa,46.4267997742,30.6765003204,Europe/Kiev,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+OGG,Kahului Airport,US,Kahului,Hawaii,20.8985996246,-156.4299926758,Pacific/Honolulu,-1000,No Dst,No Dst
+OKA,Naha Airport,JP,Naha,Okinawa,26.1958007812,127.646003723,Asia/Tokyo,+0900,No Dst,No Dst
+ONT,Ontario International Airport,US,Ontario,California,34.0559997559,-117.6009979248,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+OPO,Francisco de Sa Carneiro Airport,PT,Porto,Porto,41.2481002808,-8.6813898087,Europe/Lisbon,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+ORD,Chicago O'Hare International Airport,US,Chicago,Illinois,41.97859955,-87.90480042,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+ORK,Cork Airport,IE,Cork,Munster,51.8413009644,-8.491109848,Europe/Dublin,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+OSL,Oslo Gardermoen Airport,NO,Oslo,Akershus,60.193901062,11.100399971,Europe/Oslo,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+OTP,Henri Coanda International Airport,RO,Bucharest,Ilfov,44.5722007751,26.1021995544,Europe/Bucharest,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+NCE,Nice-Cote d'Azur Airport,FR,Nice,Provence-Alpes-Cote-d'Azur,43.6584014893,7.2158699036,Europe/Paris,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+NCL,Newcastle Airport,GB,Newcastle,England,55.0374984741,-1.6916699409,Europe/London,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+NGO,Chubu Centrair International Airport,JP,Tokoname,Aichi,34.8583984375,136.8049926758,Asia/Tokyo,+0900,No Dst,No Dst
+NKG,Nanjing Lukou Airport,CN,Nanjing,Jiangsu,31.7420005798,118.8619995117,Asia/Shanghai,+0800,No Dst,No Dst
+NNG,Nanning Wuxu Airport,CN,Nanning,Guangxi,22.6082992554,108.1719970703,Asia/Shanghai,+0800,No Dst,No Dst
+PEN,Penang International Airport,MY,Penang,,5.2971401215,100.2770004272,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+PER,Perth International Airport,AU,Perth,Western Australia,-31.9402999878,115.9670028687,Australia/Perth,+0800,No Dst,No Dst
+PAP,Toussaint Louverture International Airport,HT,Port-au-Prince,Ouest,18.5799999237,-72.2925033569,America/Port-au-Prince,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+PDX,Portland International Airport,US,Portland,Oregon,45.58869934,-122.5979996,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+PEK,Beijing Capital International Airport,CN,Beijing,Beijing,40.0801010132,116.5849990845,Asia/Shanghai,+0800,No Dst,No Dst
+PHF,Newport News Williamsburg International Airport,US,Newport News,Virginia,37.13190079,-76.49299622,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+PHL,Philadelphia International Airport,US,Philadelphia,Pennsylvania,39.8718986511,-75.2410964966,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+PHL,Philadelphia International Airport,US,Philadelphia,Pennsylvania,39.8718986511,-75.2410964966,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+PIT,Pittsburgh International Airport,US,Pittsburgh,Pennsylvania,40.49150085,-80.23290253,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+PKX,Beijing Daxing International Airport,CN,Beijing,Beijing,39.5,116.4,Asia/Shanghai,+0800,No Dst,No Dst
+PNH,Phnom Penh International Airport,KH,Phnom Penh,,11.5466003418,104.84400177,Asia/Phnom_Penh,+0700,No Dst,No Dst
+POZ,Poznań-Ławica Airport,PL,Poznań,Greater-Poland,52.4210014343,16.8262996674,Europe/Warsaw,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+PPG,Pago Pago International Airport,AS,Pago Pago,Eastern District,-14.3310003281,-170.710006714,Pacific/Pago_Pago,-1100,No Dst,No Dst
+PRG,Ruzyne International Airport,CZ,Prague,Praha,50.1007995605,14.2600002289,Europe/Prague,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+PTY,Tocumen International Airport,PA,Tocumen,Panama,9.0713596344,-79.3834991455,America/Panama,-0500,No Dst,No Dst
+PVG,Shanghai Pudong International Airport,CN,Shanghai,Shanghai,31.1434001923,121.8050003052,Asia/Shanghai,+0800,No Dst,No Dst
+QKL,No Found
+QYG,No Found
+RDU,Raleigh Durham International Airport,US,Raleigh/Durham,North Carolina,35.8776016235,-78.7874984741,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+RGN,Yangon International Airport,MM,Yangon,Yangon,16.9073009491,96.1332015991,Asia/Yangon,+0630,No Dst,No Dst
+RIC,Richmond International Airport,US,Richmond,Virginia,37.5051994324,-77.3197021484,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+RIX,Riga International Airport,LV,Riga,Marupe,56.9235992432,23.9710998535,Europe/Riga,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+SLC,Salt Lake City International Airport,US,Salt Lake City,Utah,40.7883987427,-111.9779968262,America/Denver,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+SMF,Sacramento International Airport,US,Sacramento,California,38.695400238,-121.591003418,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+SNA,John Wayne Airport-Orange County Airport,US,Santa Ana,California,33.67570114,-117.8679962,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+SOF,Sofia Airport,BG,Sofia,Sofia-Capital,42.6966934204,23.4114360809,Europe/Sofia,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+SRG,Achmad Yani Airport,ID,Semarang-Java Island,Central Java,-6.9727301598,110.375,Asia/Jakarta,+0700,No Dst,No Dst
+STL,Lambert St Louis International Airport,US,St Louis,Missouri,38.7486991882,-90.3700027466,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+TLS,Toulouse-Blagnac Airport,FR,Toulouse/Blagnac,Occitanie,43.6291007996,1.3638199568,Europe/Paris,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+TLV,Ben Gurion International Airport,IL,Tel Aviv,Central District,32.0113983154,34.8866996765,Asia/Jerusalem,+0200,2022-03-25 00:00:00,2022-10-29 23:00:00
+TMW,Tamworth Airport,AU,Tamworth,New South Wales,-31.0839004517,150.847000122,Australia/Sydney,+1100,2022-04-02 16:00:00,2022-10-01 16:00:00
+TPA,Tampa International Airport,US,Tampa,Florida,27.9755001068,-82.533203125,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+RNO,Reno Tahoe International Airport,US,Reno,Nevada,39.4990997314,-119.7679977417,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+ROR,Babelthuap Airport,PW,Babelthuap Island,Airai,7.367650032,134.5440063477,Pacific/Palau,+0900,No Dst,No Dst
+ROV,Platov International Airport,RU,Rostov-on-Don,Rostov,47.50083333,39.93361111,Europe/Moscow,+0300,No Dst,No Dst
+RSW,Southwest Florida International Airport,US,Fort Myers,Florida,26.5361995697,-81.7552032471,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+RZE,Rzeszow-Jasionka Airport,PL,Rzeszow,Subcarpathian-Voivodeship,50.1100006104,22.0189990997,Europe/Warsaw,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+SAF,Santa Fe Municipal Airport,US,Santa Fe,New Mexico,35.617099762,-106.088996887,America/Denver,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+SJC,Norman Y. Mineta San Jose International Airport,US,San Jose,California,37.3625984192,-121.9290008545,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+SZB,Sultan Abdul Aziz Shah International Airport,MY,Subang,,3.1305799484,101.5490036011,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+SZG,Salzburg Airport,AT,Salzburg,Salzburg,47.7933006287,13.0043001175,Europe/Vienna,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+SZX,Shenzhen Bao'an International Airport,CN,Shenzhen,Guangdong,22.6392993927,113.8109970093,Asia/Shanghai,+0800,No Dst,No Dst
+TAO,Liuting Airport,CN,Qingdao,Shandong,36.2661018372,120.374000549,Asia/Shanghai,+0800,No Dst,No Dst
+TFS,Tenerife South Airport,ES,Tenerife Island,Canary-Islands,28.044500351,-16.5725002289,Atlantic/Canary,+0000,2022-03-27 01:00:00,2022-10-30 01:00:00
+TFU,No Found
+TGG,Sultan Mahmud Airport,MY,Kuala Terengganu,Terengganu,5.3826398849,103.1029968262,Asia/Kuala_Lumpur,+0800,No Dst,No Dst
+TLL,Tallinn Airport,EE,Tallinn,Harjumaa,59.4132995605,24.8327999115,Europe/Tallinn,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+SAL,El Salvador International Airport,SV,Santa Clara,La Paz,13.4408998489,-89.0557022095,America/El_Salvador,-0600,No Dst,No Dst
+SAN,San Diego International Airport,US,San Diego,California,32.7336006165,-117.1900024414,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+SAP,Ramon Villeda Morales International Airport,HN,La Mesa,Cortes,15.4525995255,-87.9235992432,America/Tegucigalpa,-0600,No Dst,No Dst
+SAT,San Antonio International Airport,US,San Antonio,Texas,29.533700943,-98.4698028564,America/Chicago,-0600,2022-03-13 08:00:00,2022-11-06 07:00:00
+SCL,Comodoro Arturo Merino Benitez International Airport,CL,Santiago,Santiago-Metropolitan,-33.3930015564,-70.7857971191,America/Santiago,-0300,2022-04-03 03:00:00,2022-09-04 04:00:00
+SEA,Seattle Tacoma International Airport,US,Seattle,Washington,47.4490013123,-122.3089981079,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+SFO,San Francisco International Airport,US,San Francisco,California,37.6189994812,-122.375,America/Los_Angeles,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+SGN,Tan Son Nhat International Airport,VN,Ho Chi Minh City,Ho-Chi-Minh-City,10.8187999725,106.652000427,Asia/Ho_Chi_Minh,+0700,No Dst,No Dst
+SHA,Shanghai Hongqiao International Airport,CN,Shanghai,Shanghai,31.1979007721,121.3359985352,Asia/Shanghai,+0800,No Dst,No Dst
+SHO,Sokcho Airport,KR,,Gangwon-do,38.1426010132,128.5989990234,Asia/Seoul,+0900,No Dst,No Dst
+SIN,Singapore Changi International Airport,SG,Singapore,North East,1.3501900434,103.9940032959,Asia/Singapore,+0800,No Dst,No Dst
+SJO,Juan Santamaria International Airport,CR,San Jose,Alajuela,9.9938602448,-84.2088012695,America/Costa_Rica,-0600,No Dst,No Dst
+SKB,Robert L. Bradshaw International Airport,KN,Basseterre,Saint-George-Basseterre,17.3111991882,-62.7187004089,America/St_Kitts,-0400,No Dst,No Dst
+SUB,Juanda International Airport,ID,Surabaya,East Java,-7.3798298836,112.7870025635,Asia/Jakarta,+0700,No Dst,No Dst
+SVO,Sheremetyevo International Airport,RU,Moscow,Moscow-Oblast,55.9725990295,37.4146003723,Europe/Moscow,+0300,No Dst,No Dst
+SYD,Sydney Kingsford Smith International Airport,AU,Sydney,New South Wales,-33.9460983276,151.1770019531,Australia/Sydney,+1100,2022-04-02 16:00:00,2022-10-01 16:00:00
+SYR,Syracuse Hancock International Airport,US,Syracuse,New York,43.1111984253,-76.106300354,America/New_York,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+TST,Trang Airport,TH,,Trang,7.5087399483,99.6166000366,Asia/Bangkok,+0700,No Dst,No Dst
+TUS,Tucson International Airport,US,Tucson,Arizona,32.1161003113,-110.9410018921,America/Phoenix,-0700,No Dst,No Dst
+UBP,Ubon Ratchathani Airport,TH,Ubon Ratchathani,Changwat-Ubon-Ratchathani,15.2512998581,104.870002747,Asia/Bangkok,+0700,No Dst,No Dst
+UPG,Hasanuddin International Airport,ID,Ujung Pandang-Celebes Island,South Sulawesi,-5.0616297722,119.5540008545,Asia/Makassar,+0800,No Dst,No Dst
+VCE,Venezia / Tessera -  Marco Polo Airport,IT,Venezia,Veneto,45.5052986145,12.3519001007,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+STR,Stuttgart Airport,DE,Stuttgart,Baden-Wuerttemberg,48.6898994446,9.2219600677,Europe/Berlin,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+TPE,Taiwan Taoyuan International Airport,TW,Taipei,Taiwan,25.0776996613,121.233001709,Asia/Taipei,+0800,No Dst,No Dst
+TRD,Trondheim Airport Vaernes,NO,Trondheim,Nord-Trondelag,63.4578018188,10.9239997864,Europe/Oslo,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+TSA,Taipei Songshan Airport,TW,Taipei City,Taiwan,25.0694007874,121.5520019531,Asia/Taipei,+0800,No Dst,No Dst
+TSN,Tianjin Binhai International Airport,CN,Tianjin,Tianjin,39.1244010925,117.346000671,Asia/Shanghai,+0800,No Dst,No Dst
+VIE,Vienna International Airport,AT,Vienna,Lower-Austria,48.1102981567,16.5697002411,Europe/Vienna,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+VLC,Valencia Airport,ES,Valencia,Valencia,39.4892997742,-0.4816249907,Europe/Madrid,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+VNO,Vilnius International Airport,LT,Vilnius,Vilnius,54.6341018677,25.2858009338,Europe/Vilnius,+0200,2022-03-27 01:00:00,2022-10-30 01:00:00
+VRN,Verona / Villafranca Airport,IT,Verona,Veneto,45.3956985474,10.8885002136,Europe/Rome,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+VTE,Wattay International Airport,LA,Vientiane,Vientiane-Prefecture,17.9883003235,102.56300354,Asia/Vientiane,+0700,No Dst,No Dst
+VVO,Vladivostok International Airport,RU,Vladivostok,Primorskiy,43.3989982605,132.1479949951,Asia/Vladivostok,+1000,No Dst,No Dst
+WAW,Warsaw Chopin Airport,PL,Warsaw,Mazovia,52.1656990051,20.9671001434,Europe/Warsaw,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+WRO,Copernicus Wrocław Airport,PL,Wrocław,Lower-Silesia,51.1026992798,16.885799408,Europe/Warsaw,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+WUH,Wuhan Tianhe International Airport,CN,Wuhan,Hubei,30.7838001251,114.2080001831,Asia/Shanghai,+0800,No Dst,No Dst
+WUX,Sunan Shuofang International Airport,CN,Wuxi,Jiangsu,31.4944000244,120.429000854,Asia/Shanghai,+0800,No Dst,No Dst
+XMN,Xiamen Gaoqi International Airport,CN,Xiamen,Fujian,24.5440006256,118.1279983521,Asia/Shanghai,+0800,No Dst,No Dst
+YEG,Edmonton International Airport,CA,Edmonton,Alberta,53.3097000122,-113.580001831,America/Edmonton,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+YIA,Yogyakarta International Airport,ID,Yogyakarta-Java Island,Yogyakarta,-7.904167,110.0575,Asia/Jakarta,+0700,No Dst,No Dst
+YLW,Kelowna Airport,CA,Kelowna,British Columbia,49.9561004639,-119.3779983521,America/Vancouver,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+YMM,Fort McMurray Airport,CA,Fort McMurray,Alberta,56.653301239,-111.222000122,America/Edmonton,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+YOW,Ottawa Macdonald-Cartier International Airport,CA,Ottawa,Ontario,45.3224983215,-75.6691970825,America/Toronto,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+YQU,Grande Prairie Airport,CA,Grande Prairie,Alberta,55.1796989441,-118.885002136,America/Edmonton,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+YSJ,Saint John Airport,CA,Saint John,New Brunswick,45.3161010742,-65.890296936,America/Halifax,-0400,2022-03-13 06:00:00,2022-11-06 05:00:00
+YUL,Montreal / Pierre Elliott Trudeau International Airport,CA,Montreal,Quebec,45.4706001282,-73.7407989502,America/Toronto,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+YUM,Yuma MCAS/Yuma International Airport,US,Yuma,Arizona,32.65660095,-114.6060028,America/Phoenix,-0700,No Dst,No Dst
+YVR,Vancouver International Airport,CA,Vancouver,British Columbia,49.193901062,-123.1839981079,America/Vancouver,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+YXS,Prince George Airport,CA,Prince George,British Columbia,53.8894004822,-122.6790008545,America/Vancouver,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+YYC,Calgary International Airport,CA,Calgary,Alberta,51.113899231,-114.0199966431,America/Edmonton,-0700,2022-03-13 09:00:00,2022-11-06 08:00:00
+YYJ,Victoria International Airport,CA,Victoria,British Columbia,48.646900177,-123.4260025024,America/Vancouver,-0800,2022-03-13 10:00:00,2022-11-06 09:00:00
+YYZ,Lester B. Pearson International Airport,CA,Toronto,Ontario,43.6772003174,-79.6305999756,America/Toronto,-0500,2022-03-13 07:00:00,2022-11-06 06:00:00
+ZAG,Zagreb Airport,HR,Zagreb,Zagrebacka,45.7429008484,16.0687999725,Europe/Zagreb,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+ZRH,Zurich Airport,CH,Zurich,Zurich,47.4646987915,8.5491695404,Europe/Zurich,+0100,2022-03-27 01:00:00,2022-10-30 01:00:00
+ZUH,Zhuhai Airport,CN,Zhuhai,Guangdong,22.0063991547,113.3759994507,Asia/Shanghai,+0800,No Dst,No Dst
+ZVR,No Found
